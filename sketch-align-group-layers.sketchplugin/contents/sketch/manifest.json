@@ -1,0 +1,39 @@
+{
+  "name": "Align Group Layers",
+  "description": "",
+  "author": "Bruno Borella",
+  "authorEmail" : "brunoborella@gmail.com",
+  "homepage": "http://github.com/borellab/sketch-align-group-layers",
+  "version": 1.0,
+  "identifier": "uk.borella.sketch-align-group-layers",
+  "commands": [
+    {
+      "name": "Center Align Layers",
+      "identifier": "center",
+      "shortcut": "shift ctrl c",
+      "script": "scripts.js",
+      "handler": "centerAlign"
+    },
+    {
+      "name": "Align Layers Vertically",
+      "identifier": "vertical",
+      "shortcut": "shift ctrl v",
+      "script": "scripts.js",
+      "handler": "verticalAlign"
+    },
+    {
+      "name": "Align Layers Horizontally",
+      "identifier": "horizontal",
+      "shortcut": "shift ctrl x",
+      "script": "scripts.js",
+      "handler": "horizontalAlign"
+    }
+  ],
+  "menu": {
+    "items": [
+      "center",
+      "vertical",
+      "horizontal"
+    ]
+  }
+}
