@@ -9,4 +9,5 @@
 ## Design
 
 * [Spacing](design/spacing.md)
+* [Colors](design/colors.md)
 
