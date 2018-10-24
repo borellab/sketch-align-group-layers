@@ -1,23 +1,20 @@
-# Untitled
+---
+description: Buttons provide visual feedback when clicked or tapped on. 44px height
+---
 
-## Getting Super Powers
+# Buttons
 
-Becoming a super hero is a fairly straight forward process:
+### Primary CTA
 
-```
-$ give me super-powers
-```
+Primary CTA is always in Black \(\#000000\)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+![](../.gitbook/assets/primary-cta.png)
 
-Once you're strong enough, save the world:
+### Secondary CTA
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+Secondary CTA is always in white with a 1px black border 
 
+![](../.gitbook/assets/artboard-copy%20%281%29.png)
 
+### States of Buttons
 

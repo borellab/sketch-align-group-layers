@@ -1,10 +1,13 @@
 # Table of contents
 
-* [Button](README.md)
+* [Design System](README.md)
 
 ## Components
 
-* [Untitled](components/untitled.md)
+* [Buttons](components/untitled.md)
+* [Link](components/link.md)
+* [Icons](components/icons.md)
+* [Input Fields](components/input-fields.md)
 
 ## Design
 

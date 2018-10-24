@@ -1,4 +1,4 @@
-# Button
+# Design System
 
 {% tabs %}
 {% tab title="UX" %}
