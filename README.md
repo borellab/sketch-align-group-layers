@@ -11,7 +11,7 @@
 ```
 {% endtab %}
 
-{% tab title="SKECTH" %}
+{% tab title="SKETCH" %}
 If user
 {% endtab %}
 {% endtabs %}
